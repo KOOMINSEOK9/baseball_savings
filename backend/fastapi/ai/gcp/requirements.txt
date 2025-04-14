@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+selenium==4.29.0
+webdriver-manager==4.0.2
+pandas==2.2.3
+# time
+schedule
+datetime
+google-genai==1.8.0
+google-generativeai==0.8.4
+python-dotenv==1.0.1
+requests==2.32.3
+# torch==2.6.0
+transformers==4.50.0
+webdriver-manager==4.0.2
+accelerate==1.5.2
+# autoawq>=0.2.8

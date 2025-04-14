@@ -74,19 +74,19 @@
 ## 3️⃣ 주요기능
 | 로그인 | 계좌 조회 |
 |---|---|
-| <img src="/uploads/c77d76f4cd2977a54a01bcb1a7d31ffc/로그인.gif" width="450"/> | <img src="/uploads/d392d20e2702a30cc3a03444d62e8729/계좌조회.gif" width="450"/> |
+| <img src="/uploads/04c4fbfd6e40628f2eb7f45d6b8a456e/로그인.gif" width="450"/> | <img src="/uploads/e527ddd4873c1ad4ce28386400e2f09b/계좌조회.gif" width="450"/> |
 
 | 적금 가입 | 메인 페이지 |
 |---|---|
-| <img src="/uploads/3d1ab93e6345dd6dd4ffb12d8bc3a211/적금가입.gif" width="450"/> | <img src="/uploads/2d994edc3b46deaf9f093c8a9746f17c/메인페이지.gif" width="450"/> |
+| <img src="/uploads/587fcba617ec7ad413a9d891ce69698c/적금가입.gif" width="450"/> | <img src="/uploads/dad56ddd62a4787e514b32352375b053/메인페이지.gif" width="450"/> |
 
 | 적금내역 페이지 | 주간 리포트 페이지 |
 |---|---|
-| <img src="/uploads/0b7b7e77d44678dcb5735c4318bee04d/적금내역.gif" width="450"/> | <img src="/uploads/d878f8607fa8a1ccdf8674c76804ae28/주간리포트.gif" width="450"/> |
+| <img src="/uploads/d04c6d96ece33239b9f0cf9492622344/적금내역.gif" width="450"/> | <img src="/uploads/5c4b58763cee28dd3c425da74db65596/주간리포트.gif" width="450"/> |
 
 | 경기 직관 인증 | 팀 순위 맞추기 |
 |---|---|
-| <img src="/uploads/9e8b7759562a9b366254fb7f2b5fc080/경기직관인증.gif" width="450"/> | <img src="/uploads/6b3de834c1faff6b300c3fb21e1a6d44/팀순위맞추기.gif" width="450"/> |
+| <img src="/uploads/53eb7d7278274d6cb3745a3fb04c2a9d/경기직관인증.gif" width="450"/> | <img src="/uploads/b3a9d8170ec2a59599d6aa09541efce8/팀순위맞추기.gif" width="450"/> |
 
 ## 4️⃣ 기술스택
 <table>
